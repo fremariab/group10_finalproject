@@ -551,6 +551,7 @@
     </comp>
     <comp lib="0" loc="(1600,1370)" name="Pin">
       <a name="appearance" val="NewPins"/>
+      <a name="label" val="oe_ir"/>
     </comp>
     <comp lib="0" loc="(1600,1480)" name="Pin">
       <a name="appearance" val="NewPins"/>
